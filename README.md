@@ -1,7 +1,9 @@
-## Hi, my name is Oscar Chau and I am currently attending Cal Poly as a computer science major.
+💫## Hi, my name is Oscar Chau and I am currently attending Cal Poly as a computer science major.
 
 ## Contact:
 email : oscarchau126@gmail.com
+
+## Tech Stack:
 
 <!--
 **oscar-chau/oscar-chau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
