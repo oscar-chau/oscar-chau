@@ -1,4 +1,5 @@
-## 💫Hi, my name is Oscar Chau and I am currently attending Cal Poly as a computer science major.
+## 💫About Me:
+Hi, my name is Oscar Chau, and I am currently pursuing a Computer Science degree at Cal Poly. My coursework has equipped me with a solid foundation in programming, data structures, algorithms, and software development. Through both personal and collaborative projects, I have refined my technical skills by exploring various programming languages, libraries, and frameworks. I am passionate about software development and enjoy learning how to build real-world applications.
 
 ## Contact:
 email : oscarchau126@gmail.com
