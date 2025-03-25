@@ -5,7 +5,7 @@ Hi, my name is Oscar Chau, and I am currently pursuing a Computer Science degree
 email : oscarchau126@gmail.com
 
 ## 👨‍💻Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <!--
 **oscar-chau/oscar-chau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
