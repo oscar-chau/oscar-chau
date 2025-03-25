@@ -5,7 +5,7 @@ Hi, my name is Oscar Chau, and I am currently pursuing a Computer Science degree
 email : oscarchau126@gmail.com
 
 ## Tech Stack:
-
+![alt text]([http://url/to/img.png](https://camo.githubusercontent.com/a73109b04734b0adb5596090c93c0240b5a916dac6667be2fe41177ce8cfe470/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666c6174266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465))
 <!--
 **oscar-chau/oscar-chau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
