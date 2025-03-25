@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e1a5b2d6-8bfd-44d1-a5f8-2d7ebb6d2a9b)## Hi, my name is Oscar Chau and I am currently attending Cal Poly as a computer science major.
+## Hi, my name is Oscar Chau and I am currently attending Cal Poly as a computer science major.
 
 ##Contact:
 email : oscarchau126@gmail.com
